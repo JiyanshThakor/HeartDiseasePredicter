@@ -14,7 +14,7 @@
 | **Validation Accuracy** | **78.2%** |
 | **Data Points** | 270 Patients |
 | **Features** | 13 Clinical Attributes + Target |
-| **Model** | RandomForest + ColumnTransformer Pipeline |
+| **Model** |   XGBOOST + ColumnTransformer Pipeline |
 
 ## 📁 Dataset
 [Kaggle Heart Disease Dataset](https://www.kaggle.com)  
