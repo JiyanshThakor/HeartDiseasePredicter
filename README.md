@@ -2,9 +2,9 @@
 
 **Clinical-grade cardiovascular risk prediction using the UCI Cleveland Heart Disease dataset and Scikit-Learn!**
 
-[![Accuracy](https://img.shields.io)](https://www.kaggle.com)
-[![Dataset](https://img.shields.io)](https://www.kaggle.com)
-[![Python](https://img.shields.io)](https://www.python.org)
+[(https://img.shields.io)](https://www.kaggle.com)
+[(https://img.shields.io)](https://www.kaggle.com)
+[(https://img.shields.io)](https://www.python.org)
 
 ## 📌 Results
 
